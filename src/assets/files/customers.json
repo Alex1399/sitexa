@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "Han",
+            "state": "Hello my friend",
+            "description": "the girlfriend is beautiful",
+            "image":"avatar-han.png"
+        },
+        {
+            "name": "Luke",
+            "state": "Hi , sister",
+            "description": "Run is  Panama city",
+            "image":"avatar-luke.png"
+        },
+        {
+            "name": "Leia",
+            "state":" love is a Baseball",
+            "description": "Ingenner of the Informatic",
+            "image":"avatar-leia.png"
+        }
+    ]
+}
